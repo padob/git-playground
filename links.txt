@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/2423777/is-it-possible-to-create-a-remote-repo-on-github-from-the-cli-without-opening-br
+
+https://stackoverflow.com/questions/19730565/how-to-remove-files-from-git-staging-area
+https://stackoverflow.com/questions/61212/how-to-remove-local-untracked-files-from-the-current-git-working-tree
